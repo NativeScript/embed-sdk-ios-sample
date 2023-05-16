@@ -1,10 +1,10 @@
 PODS:
   - NativeScriptSDK (8.4.2)
-  - NativeScriptUI (0.1.1)
+  - NativeScriptUI (0.1.2)
 
 DEPENDENCIES:
   - NativeScriptSDK (~> 8.4.2)
-  - NativeScriptUI
+  - NativeScriptUI (~> 0.1.2)
 
 SPEC REPOS:
   trunk:
@@ -13,8 +13,8 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   NativeScriptSDK: 52c027949a94137d9215c2a955f8e1102cbb34a6
-  NativeScriptUI: f825b88da6cd04f435f18f1eeda67a0c4e5a822c
+  NativeScriptUI: b7352a0cf41db1b57f97f4dfa63fb592e1778040
 
-PODFILE CHECKSUM: 8e8d539a27583569e214f58c36fb3a951ab716ed
+PODFILE CHECKSUM: 2ff99cba69813c6101a82b7ef9891e219afd716d
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.12.1
